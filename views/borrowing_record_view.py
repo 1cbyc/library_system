@@ -18,7 +18,7 @@
 #         due_date = input("Enter due date (YYYY-MM-DD): ")
 #         return_date = input("Enter return date (YYYY-MM-DD) (leave blank if not returned): ") or None
 #         self.controller.add_borrowing_record(book_id, member_id, borrow_date, due_date, return_date)
-from library_system.controllers.borrowing_record_controller import BorrowingRecordController
+from ..controllers.borrowing_record_controller import BorrowingRecordController
 
 class BorrowingRecordView:
     def __init__(self):

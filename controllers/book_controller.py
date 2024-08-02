@@ -24,7 +24,7 @@
 #         self.db.delete_book(book_id)
 #
 
-from library_system.models.book import Book
+from ..models.book import Book
 
 class BookController:
     def __init__(self):

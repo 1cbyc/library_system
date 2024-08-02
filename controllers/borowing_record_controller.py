@@ -14,7 +14,7 @@
 #     def get_all_borrowing_records(self):
 #         return self.db.get_all_borrowing_records()
 
-from library_system.models.borrowing_record import BorrowingRecord
+from ..models.borrowing_record import BorrowingRecord
 
 class BorrowingRecordController:
     def __init__(self):

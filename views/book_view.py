@@ -18,7 +18,7 @@
 #         isbn = input("Enter book ISBN: ")
 #         copies = int(input("Enter number of copies: "))
 #         self.controller.add_book(title, author, genre, isbn, copies)
-from library_system.controllers.book_controller import BookController
+from ..controllers.book_controller import BookController
 
 class BookView:
     def __init__(self):

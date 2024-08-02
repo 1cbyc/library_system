@@ -16,7 +16,7 @@
 #         email = input("Enter member email: ")
 #         phone = input("Enter member phone: ")
 #         self.controller.add_member(name, email, phone)
-from library_system.controllers.member_controller import MemberController
+from ..controllers.member_controller import MemberController
 
 class MemberView:
     def __init__(self):

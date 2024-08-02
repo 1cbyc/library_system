@@ -14,7 +14,7 @@
 #     def get_all_members(self):
 #         return self.db.get_all_members()
 
-from library_system.models.member import Member
+from ..models.member import Member
 
 class MemberController:
     def __init__(self):

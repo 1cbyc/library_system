@@ -51,10 +51,12 @@
 #
 # if __name__ == '__main__':
 #     main()
-from library_system.views.book_view import BookView
-from library_system.views.member_view import MemberView
-from library_system.views.borrowing_record_view import BorrowingRecordView
-
+# from library_system.views.book_view import BookView
+# from library_system.views.member_view import MemberView
+# from library_system.views.borrowing_record_view import BorrowingRecordView
+from views.book_view import BookView
+from views.member_view import MemberView
+from views.borrowing_record_view import BorrowingRecordView
 
 def main():
     book_view = BookView()
