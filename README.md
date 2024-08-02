@@ -5,3 +5,6 @@
 I will explain my process to development here too.
 
 Let me setup the project structure so i don't forget because i am lazy too, sometimes.
+
+- I added models
+- I added controllers next
