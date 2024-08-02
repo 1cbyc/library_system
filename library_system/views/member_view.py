@@ -1,4 +1,6 @@
-from controllers.member_controller import MemberController
+# from controllers.member_controller import MemberController
+# from 1cbyc_library_system.controllers.member_controller import MemberController
+from library_system.controllers.member_controller import MemberController
 
 class MemberView:
     def __init__(self):

@@ -1,4 +1,6 @@
-from controllers.book_controller import BookController
+# from controllers.book_controller import BookController
+# from 1cbyc_library_system.controllers.book_controller import BookController
+from library_system.controllers.book_controller import BookController
 
 class BookView:
     def __init__(self):

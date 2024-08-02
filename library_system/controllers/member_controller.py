@@ -1,5 +1,6 @@
-from models.member import Member
+# from models.member import Member
 from utils.database import Database
+from library_system.models.member import Member
 
 
 class MemberController:

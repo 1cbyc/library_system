@@ -1,5 +1,6 @@
-from models.borrowing_record import BorrowingRecord
+# from models.borrowing_record import BorrowingRecord
 from utils.database import Database
+from library_system.models.borrowing_record import BorrowingRecord
 
 
 class BorrowingRecordController:

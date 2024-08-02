@@ -1,5 +1,6 @@
-from models.book import Book
+# from models.book import Book
 from utils.database import Database
+from library_system.models.book import Book
 
 
 class BookController:

@@ -1,4 +1,6 @@
-from controllers.borrowing_record_controller import BorrowingRecordController
+# from controllers.borrowing_record_controller import BorrowingRecordController
+# from 1cbyc_library_system.controllers.borrowing_record_controller import BorrowingRecordController
+from library_system.controllers.borrowing_record_controller import BorrowingRecordController
 
 class BorrowingRecordView:
     def __init__(self):
