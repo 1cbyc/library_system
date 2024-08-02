@@ -1,3 +1,7 @@
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 from views.book_view import BookView
 from views.member_view import MemberView
 from views.borrowing_record_view import BorrowingRecordView
