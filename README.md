@@ -13,3 +13,4 @@ Let me setup the project structure so i don't forget because i am lazy too, some
 - for others, i added the requirements i think i might need
 
 - okay, i fixed the most important, let me make tests then actually start coding. i just want the instant gratification
+- i forgot to ad __init__.py in all directories
