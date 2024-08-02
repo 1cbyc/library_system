@@ -87,7 +87,7 @@ def main():
         elif choice == '7':
             break
         else:
-            print("Invalid choice. Please try again.")
+            print("you no see better choice? abeg try again.")
 
 
 if __name__ == '__main__':
