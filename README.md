@@ -10,4 +10,5 @@ Let me setup the project structure so i don't forget because i am lazy too, some
 - I added controllers next
 - i added the expected views
 - i then added the services needed (liek search)
-- 
+- for others, i added the requirements i think i might need
+
